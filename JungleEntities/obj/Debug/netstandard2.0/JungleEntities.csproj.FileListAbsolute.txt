@@ -1,0 +1,11 @@
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleEntities\bin\Debug\netstandard2.0\JungleEntities.deps.json
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleEntities\bin\Debug\netstandard2.0\JungleEntities.dll
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleEntities\bin\Debug\netstandard2.0\JungleEntities.pdb
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleEntities\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleEntities\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleEntities\obj\Debug\netstandard2.0\JungleEntities.csprojResolveAssemblyReference.cache
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleEntities\obj\Debug\netstandard2.0\JungleEntities.csproj.CoreCompileInputs.cache
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleEntities\obj\Debug\netstandard2.0\JungleEntities.AssemblyInfoInputs.cache
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleEntities\obj\Debug\netstandard2.0\JungleEntities.AssemblyInfo.cs
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleEntities\obj\Debug\netstandard2.0\JungleEntities.dll
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleEntities\obj\Debug\netstandard2.0\JungleEntities.pdb

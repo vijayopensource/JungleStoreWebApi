@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCore,Version=v2.0": {
+      "JungleEntities/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/JungleEntities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JungleEntities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JungleEntities/1.0.0": {
+      "type": "project",
+      "path": "../JungleEntities/JungleEntities.csproj",
+      "msbuildProject": "../JungleEntities/JungleEntities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCore,Version=v2.0": [
+      "JungleEntities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Soumya Vijay\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Soumya Vijay\\source\\repos\\JungleStore\\JungleControllers\\JungleControllers.csproj",
+      "projectName": "JungleControllers",
+      "projectPath": "C:\\Users\\Soumya Vijay\\source\\repos\\JungleStore\\JungleControllers\\JungleControllers.csproj",
+      "packagesPath": "C:\\Users\\Soumya Vijay\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Soumya Vijay\\source\\repos\\JungleStore\\JungleControllers\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Soumya Vijay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcore20"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcore20": {
+          "projectReferences": {
+            "C:\\Users\\Soumya Vijay\\source\\repos\\JungleStore\\JungleEntities\\JungleEntities.csproj": {
+              "projectPath": "C:\\Users\\Soumya Vijay\\source\\repos\\JungleStore\\JungleEntities\\JungleEntities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcore20": {}
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project JungleEntities is not compatible with netcore20 (.NETCore,Version=v2.0). Project JungleEntities supports: netstandard2.0 (.NETStandard,Version=v2.0)",
+      "libraryId": "JungleEntities",
+      "targetGraphs": [
+        ".NETCore,Version=v2.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\bin\Debug\netcoreapp2.0\JungleStore.deps.json
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\bin\Debug\netcoreapp2.0\JungleStore.runtimeconfig.json
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\bin\Debug\netcoreapp2.0\JungleStore.runtimeconfig.dev.json
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\bin\Debug\netcoreapp2.0\JungleStore.dll
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\bin\Debug\netcoreapp2.0\JungleStore.pdb
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\bin\Debug\netcoreapp2.0\JungleControllerCore.dll
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\bin\Debug\netcoreapp2.0\JungleEntities.dll
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\bin\Debug\netcoreapp2.0\JungleControllerCore.pdb
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\bin\Debug\netcoreapp2.0\JungleEntities.pdb
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\obj\Debug\netcoreapp2.0\JungleStore.csprojResolveAssemblyReference.cache
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\obj\Debug\netcoreapp2.0\JungleStore.csproj.CoreCompileInputs.cache
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\obj\Debug\netcoreapp2.0\JungleStore.AssemblyInfoInputs.cache
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\obj\Debug\netcoreapp2.0\JungleStore.AssemblyInfo.cs
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\obj\Debug\netcoreapp2.0\JungleStore.dll
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\obj\Debug\netcoreapp2.0\JungleStore.pdb

@@ -1,0 +1,11 @@
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleControllerCore\bin\Debug\netcoreapp2.0\JungleControllerCore.deps.json
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleControllerCore\bin\Debug\netcoreapp2.0\JungleControllerCore.dll
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleControllerCore\bin\Debug\netcoreapp2.0\JungleControllerCore.pdb
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleControllerCore\bin\Debug\netcoreapp2.0\JungleEntities.dll
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleControllerCore\bin\Debug\netcoreapp2.0\JungleEntities.pdb
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleControllerCore\obj\Debug\netcoreapp2.0\JungleControllerCore.csprojResolveAssemblyReference.cache
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleControllerCore\obj\Debug\netcoreapp2.0\JungleControllerCore.csproj.CoreCompileInputs.cache
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleControllerCore\obj\Debug\netcoreapp2.0\JungleControllerCore.AssemblyInfoInputs.cache
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleControllerCore\obj\Debug\netcoreapp2.0\JungleControllerCore.AssemblyInfo.cs
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleControllerCore\obj\Debug\netcoreapp2.0\JungleControllerCore.dll
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleControllerCore\obj\Debug\netcoreapp2.0\JungleControllerCore.pdb
