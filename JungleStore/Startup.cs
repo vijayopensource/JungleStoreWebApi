@@ -9,6 +9,7 @@ using System.IdentityModel.Tokens.Jwt;
 using JungleEntities.Data;
 using JungleControllers.Controllers;
 using System.Reflection;
+using EmployeeControllers;
 
 namespace JungleStore
 {
@@ -26,6 +27,7 @@ namespace JungleStore
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<JungleContext>(options=> options.UseInMemoryDatabase("JungleStore"));
+            services.AddDbContext<EmployeeContext>(options => options.UseInMemoryDatabase("JungleStore"));
 
             JwtSecurityTokenHandler.DefaultInboundClaimTypeMap.Clear();
 
@@ -38,11 +40,14 @@ namespace JungleStore
                 });
 
 
-            var controllerAssembly = typeof(AnimalController).GetTypeInfo().Assembly;
+            var jungleControllerAssembly = typeof(AnimalController).GetTypeInfo().Assembly;
+            var employeeControllerAssembly = typeof(EmployeeController).GetTypeInfo().Assembly;
+
 
             services.AddMvc()
                 .AddXmlDataContractSerializerFormatters()
-                .AddApplicationPart(controllerAssembly);
+                .AddApplicationPart(jungleControllerAssembly)
+                .AddApplicationPart(employeeControllerAssembly);
 
         }
 

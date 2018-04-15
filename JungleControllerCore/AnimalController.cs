@@ -18,11 +18,10 @@ namespace JungleControllers.Controllers
             _context = context;
         }
 
-        // GET: api/Animal
+        // GET: api/Animal..
         [HttpGet]
         public IEnumerable<Animal> GetAnimals()
         {
-            throw new System.Exception();
             return _context.Animals;
         }
 

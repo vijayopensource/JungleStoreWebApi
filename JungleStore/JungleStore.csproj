@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\EmployeeControllers\EmployeeControllers.csproj" />
     <ProjectReference Include="..\JungleControllerCore\JungleControllerCore.csproj" />
     <ProjectReference Include="..\JungleEntities\JungleEntities.csproj" />
   </ItemGroup>

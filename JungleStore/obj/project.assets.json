@@ -5029,6 +5029,20 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
+      "EmployeeControllers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "JungleEntities": "1.0.0",
+          "Microsoft.AspNetCore.All": "2.0.3"
+        },
+        "compile": {
+          "bin/placeholder/EmployeeControllers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeControllers.dll": {}
+        }
+      },
       "JungleControllerCore/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
@@ -13137,6 +13151,11 @@
         "windowsazure.storage.nuspec"
       ]
     },
+    "EmployeeControllers/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeControllers/EmployeeControllers.csproj",
+      "msbuildProject": "../EmployeeControllers/EmployeeControllers.csproj"
+    },
     "JungleControllerCore/1.0.0": {
       "type": "project",
       "path": "../JungleControllerCore/JungleControllerCore.csproj",
@@ -13150,6 +13169,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "EmployeeControllers >= 1.0.0",
       "JungleControllerCore >= 1.0.0",
       "JungleEntities >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.3",
@@ -13196,6 +13216,9 @@
           "projectReferences": {
             "C:\\Users\\Soumya Vijay\\source\\repos\\JungleStore\\JungleEntities\\JungleEntities.csproj": {
               "projectPath": "C:\\Users\\Soumya Vijay\\source\\repos\\JungleStore\\JungleEntities\\JungleEntities.csproj"
+            },
+            "C:\\Users\\Soumya Vijay\\source\\repos\\JungleStore\\EmployeeControllers\\EmployeeControllers.csproj": {
+              "projectPath": "C:\\Users\\Soumya Vijay\\source\\repos\\JungleStore\\EmployeeControllers\\EmployeeControllers.csproj"
             },
             "C:\\Users\\Soumya Vijay\\source\\repos\\JungleStore\\JungleControllerCore\\JungleControllerCore.csproj": {
               "projectPath": "C:\\Users\\Soumya Vijay\\source\\repos\\JungleStore\\JungleControllerCore\\JungleControllerCore.csproj"

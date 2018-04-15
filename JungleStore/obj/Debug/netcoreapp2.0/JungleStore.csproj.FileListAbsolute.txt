@@ -13,3 +13,5 @@ C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\obj\Debug\netcoreapp2
 C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\obj\Debug\netcoreapp2.0\JungleStore.AssemblyInfo.cs
 C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\obj\Debug\netcoreapp2.0\JungleStore.dll
 C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\obj\Debug\netcoreapp2.0\JungleStore.pdb
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\bin\Debug\netcoreapp2.0\EmployeeControllers.dll
+C:\Users\Soumya Vijay\source\repos\JungleStore\JungleStore\bin\Debug\netcoreapp2.0\EmployeeControllers.pdb

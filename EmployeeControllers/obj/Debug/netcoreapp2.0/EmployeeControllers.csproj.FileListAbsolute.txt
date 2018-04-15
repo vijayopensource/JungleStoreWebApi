@@ -1,0 +1,11 @@
+C:\Users\Soumya Vijay\source\repos\JungleStore\EmployeeControllers\bin\Debug\netcoreapp2.0\EmployeeControllers.deps.json
+C:\Users\Soumya Vijay\source\repos\JungleStore\EmployeeControllers\bin\Debug\netcoreapp2.0\EmployeeControllers.dll
+C:\Users\Soumya Vijay\source\repos\JungleStore\EmployeeControllers\obj\Debug\netcoreapp2.0\EmployeeControllers.csprojResolveAssemblyReference.cache
+C:\Users\Soumya Vijay\source\repos\JungleStore\EmployeeControllers\obj\Debug\netcoreapp2.0\EmployeeControllers.csproj.CoreCompileInputs.cache
+C:\Users\Soumya Vijay\source\repos\JungleStore\EmployeeControllers\obj\Debug\netcoreapp2.0\EmployeeControllers.AssemblyInfoInputs.cache
+C:\Users\Soumya Vijay\source\repos\JungleStore\EmployeeControllers\obj\Debug\netcoreapp2.0\EmployeeControllers.AssemblyInfo.cs
+C:\Users\Soumya Vijay\source\repos\JungleStore\EmployeeControllers\bin\Debug\netcoreapp2.0\EmployeeControllers.pdb
+C:\Users\Soumya Vijay\source\repos\JungleStore\EmployeeControllers\bin\Debug\netcoreapp2.0\JungleEntities.dll
+C:\Users\Soumya Vijay\source\repos\JungleStore\EmployeeControllers\bin\Debug\netcoreapp2.0\JungleEntities.pdb
+C:\Users\Soumya Vijay\source\repos\JungleStore\EmployeeControllers\obj\Debug\netcoreapp2.0\EmployeeControllers.dll
+C:\Users\Soumya Vijay\source\repos\JungleStore\EmployeeControllers\obj\Debug\netcoreapp2.0\EmployeeControllers.pdb

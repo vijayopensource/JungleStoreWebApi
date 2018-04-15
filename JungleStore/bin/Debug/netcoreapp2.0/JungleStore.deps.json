@@ -23,6 +23,7 @@
     ".NETCoreApp,Version=v2.0": {
       "JungleStore/1.0.0": {
         "dependencies": {
+          "EmployeeControllers": "1.0.0",
           "JungleControllerCore": "1.0.0",
           "JungleEntities": "1.0.0",
           "Microsoft.AspNetCore.All": "2.0.3",
@@ -4056,6 +4057,18 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
+      "EmployeeControllers/1.0.0": {
+        "dependencies": {
+          "JungleEntities": "1.0.0",
+          "Microsoft.AspNetCore.All": "2.0.3"
+        },
+        "runtime": {
+          "EmployeeControllers.dll": {}
+        },
+        "compile": {
+          "EmployeeControllers.dll": {}
+        }
+      },
       "JungleControllerCore/1.0.0": {
         "dependencies": {
           "JungleEntities": "1.0.0",
@@ -6387,6 +6400,11 @@
       "sha512": "sha512-W6ZZ0/o7+3Qb77mRAQyLjPudHG3OMeeQ4p9yY13PUdJArmRCx2cLMm5F4tpIjJXxzHC0ew0oK7DMDGILMdfCnw==",
       "path": "windowsazure.storage/8.1.4",
       "hashPath": "windowsazure.storage.8.1.4.nupkg.sha512"
+    },
+    "EmployeeControllers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "JungleControllerCore/1.0.0": {
       "type": "project",
